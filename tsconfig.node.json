@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "ignoreDeprecations": "5.0",
+    "composite": true,
+    "allowJs": true,
+    "types": ["node"],
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts"],
+  "extends": "@vue/tsconfig/tsconfig.node.json",
+}

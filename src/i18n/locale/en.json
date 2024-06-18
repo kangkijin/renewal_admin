@@ -1,0 +1,15 @@
+{
+  "hello": "hello",
+  "welcome": "welcome",
+  "UI Guide": "UI Guide",
+  "Overview": "Overview",
+  "List": "List",
+  "ListBasic": "Basic",
+  "ListSCR": "Select, Check, Radio",
+  "ListTD": "Tab, Datepicker",
+  "Detail": "Detail",
+  "DetailTab": "Detail - Tab",
+  "DetailDialog": "Detail - Dialog",
+  "DetailTable": "Detail - Table View",
+  "Labs": "Labs"
+}
